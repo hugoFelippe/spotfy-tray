@@ -1,0 +1,8 @@
+{
+  "name": "spotfy-tray",
+  "description": "Controles para spotfy",
+  "uuid": "spotfy-tray@hugofelippe.com.br",
+  "shell-version": [
+    "43"
+  ]
+}
